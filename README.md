@@ -1,5 +1,9 @@
 # AI and Machine Learning for Coders Notebooks
 
+<div align="center">
+    <img src="images/Machine_Learning_Dev_Desk.jfif" alt="Machine Learning Development Desk" width="300"/>
+</div>
+
 Welcome to the repository for examples and exercises from the book **"AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence"**. This repository contains Jupyter notebooks demonstrating key concepts and practical exercises based on the book.
 
 ## Contents
